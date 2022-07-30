@@ -76,7 +76,7 @@ $title = "Notes php";
 	                <div class="col-md-6">
 	                    <div class="block">
 	                        <h1 class="wow fadeInDown">PHP CODE</h1>
-	                        <p class="wow fadeInDown" data-wow-delay="0.3s">Note pour retenir simplement le PHP (PHP>7)</p>
+	                        <p class="wow fadeInDown" data-wow-delay="0.3s">Note pour retenir simplement le PHP (PHP>=7)</p>
 	                        <div class="wow fadeInDown" data-wow-delay="0.3s">
 	                        	<a class="btn btn-default btn-home" href="#about" role="button">Commencer</a>
 	                        </div>
